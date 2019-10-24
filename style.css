@@ -1,0 +1,35 @@
+body {
+    background-color: lightsteelblue;
+}
+
+.navigation .navbar-brand{
+    color: white;
+    margin-left: 50px;
+    padding: inherit;
+    font-weight: bold;
+    background-color: rgb(39, 176, 179);
+}
+
+.navbar{
+    background-color: white;
+    font-size: 15px;
+}
+
+img{
+    width:100% !important;
+    height:100% !important;
+}
+
+footer{
+    background-color:grey;  
+    border-top-style: solid;
+    border-top-width: 5px;
+    border-top-color: rgb(39, 176, 179);
+    color: white;
+    min-height: 60px;
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    padding-top: 15px;
+}
